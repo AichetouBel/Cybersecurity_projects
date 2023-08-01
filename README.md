@@ -18,7 +18,11 @@ Ce répertoire contient toutes les configurations nécessaires pour la mise en p
 * The Hive
 * MISP
 * Cortex 
-avec des tests d'efficacité des solutions proposées(Scan de réseaux avec NMAP, Intrusion détection via DOS Attaque).
+
+## Test
+Pour évaluer l'efficacité de la solution proposée, nous avons réalisé quelques tests 
+* Scan de réseaux avec NMAP
+* DOS Attaque.
 
 
 
