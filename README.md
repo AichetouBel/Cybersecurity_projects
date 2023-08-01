@@ -1,19 +1,23 @@
 # CyberSecurity2
 
-#####################################################################
-#######                AUTHOR: AICHETOU BEL                   #######                       
-#####################################################################
+
+#######        AUTHOR: AICHETOU BEL         #######                       
+
 
 ## Deploiement d'un SOC
-Ce répertoire contient toutes les configurations nécessaires pour la mise en place d'un SOC (security opération centre) via l'intégration de plusieurs logiciels:
-Opensense
-Splunk
-Suricata
-Yara
-Nagios
-The Hive
-MISP
-Cortex 
+Ce répertoire contient toutes les configurations nécessaires pour la mise en place d'un SOC (security opération centre) via l'intégration de plusieurs logiciels (SIEM et SOAR):
+
+## SIEM
+* Opensense
+* Splunk
+* Suricata
+* Yara
+* Nagios
+
+## SOAR
+* The Hive
+* MISP
+* Cortex 
 avec des tests d'efficacité des solutions proposées(Scan de réseaux avec NMAP, Intrusion détection via DOS Attaque).
 
 
