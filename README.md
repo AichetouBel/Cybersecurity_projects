@@ -23,15 +23,3 @@ Ce répertoire contient toutes les configurations nécessaires pour la mise en p
 Pour évaluer l'efficacité de la solution proposée, nous avons réalisé quelques tests 
 * Scan de réseaux avec NMAP
 * DOS Attaque.
-
-
-
-
-
-
-
-
-
-
-
-
