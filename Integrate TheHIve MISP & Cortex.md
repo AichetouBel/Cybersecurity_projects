@@ -25,7 +25,7 @@ Copiez et collez la clé(API key)créée dans le guide Cortex dans le fichier de
         }
 * Redémarrer TheHive: ``sudo systemctl restart thehive``
 
-## Configurer la communication entre TheHOIve et MISP
+## Configurer la communication entre TheHive et MISP
 
 Éditer le fichier de configuration TheHive /etc/thehive/application.conf et décommentez les lignes ci-dessous.
 
