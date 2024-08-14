@@ -3,6 +3,7 @@
 
 #######        AUTHOR: AICHETOU BEL         #######                       
 
+Note: This documentation is in French!
 
 ## Deploiement d'un SOC
 Ce répertoire contient les configurations nécessaires pour la mise en place d'un SOC (security opération centre) Open Source via l'intégration de plusieurs outils SIEM et SOAR:
